@@ -1,25 +1,29 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Sil.je
+url: https://sil.je
+title: Sil.je
+description: The personal website of Silje Enge Kristensen
 twitter:
-  username: #yourusername
+  username: siljexnord
   card: summary
-  creator: #yourusername
+  creator: siljexnord
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: siljexnord
+  name: Silje Enge Kristensen
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: i.am@sil.je
+  url: https://sil.je
 permalink: pretty
 
 baseurl: ""
+
+timezone: "Europe/Oslo"
 
 highlighter: none
 
 exclude:
   - .jekyll-cache
+  - LICENSE.md
+  - README.md
   
 compress_html:
   clippings: all
