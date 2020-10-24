@@ -3,26 +3,16 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+# Hello. I am sil.je!
 
-### Features
+That's Silje Enge Kristensen to you! My day job is herding wayward containers, and turning things off and on again. I help organize [Oslo Mechanical Keyboard Club](https://www.meetup.com/Oslo-Mechanical-Keyboard-Club/), [Oslo NixOS Usergroup](https://www.meetup.com/Oslo-NixOS-User-Group/) and [Hackeriet](https://www.meetup.com/hackeriet/). My pronouns are she/her. 
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+I like books, mechanical keyboards, movies and girevoy sport.
 
-### Screenshot
+> She was a girl with a wonderful profile, but steeped to the gills in serious purpose. -P.G. Wodehouse, World of Jeeves
 
-![Screenshot](screenshot.png)
+## Links
+
+* [Github](https://github.com/fnords)
+* [Keybase](https://keybase.io/fnords)
+* [Twitter](https://twitter.com/siljexnord)
