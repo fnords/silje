@@ -103,6 +103,3 @@
   for = "*.gif"
   [headers.values]
     Cache-Control = "max-age=604800, public"
-
-[build.environment]
-  GIT_LFS_ENABLED = "true"
