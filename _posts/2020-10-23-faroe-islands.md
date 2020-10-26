@@ -3,7 +3,7 @@ layout: post
 title: The Faroe Islands
 description: A trip to the Faroe Islands, July 2020
 summary: Photos from a trip to the Faroe Islands in July 2020 
-comments: true
+comments: false
 tags: [travel, photography]
 ---
 ![Mountain in fog and a waterfall](/assets/images/faroe/R0000094.jpg)
