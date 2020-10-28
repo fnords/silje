@@ -4,3 +4,6 @@
 
 The source code for sil.je, a jekyll site using [Sidey](https://github.com/ronv/sidey)
 
+## Plugins
+
+The [jekyll_picture_tag](https://rbuchberger.github.io/jekyll_picture_tag/) plugin requires that `imagemagick` and `webp` are installed to build locally.
